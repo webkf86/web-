@@ -56,4 +56,4 @@ Welcome to the web-font-end wiki!<br>
 &ensp;&ensp;&ensp;&ensp;一款在线指纹识别系统,目前已支持上百种cms的源码识别,看到哪个网站设计的不错，想了解用什么源码搭建的，便可以使用它进行识别！<br><br>
 &ensp;&ensp;&ensp;&ensp;今天时间不早了，先汇总到此。改日再进一步进行总结。<br>
 &ensp;&ensp;&ensp;&ensp;希望能够对来访者有所帮助！您在阅读过程中，如果对其中某一处产生疑问或是感觉其中有差错的地方，望您可以指正。<br>
-2017-8-28 0:28 
+&ensp;&ensp;&ensp;&ensp;2017-8-28 0:28 
